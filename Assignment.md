@@ -1,7 +1,6 @@
 # NE Assignment  #
 
-P.M.Vithana 
--  IT13074364
+**P.M.Vithana -  IT13074364**
 
 # **Bandit** #
 
