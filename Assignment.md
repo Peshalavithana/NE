@@ -59,21 +59,36 @@ This game is loging using SSH. The host which need to connect is **bandit.labs.o
 ![](https://cloud.githubusercontent.com/assets/13816109/9332233/4e739446-45e1-11e5-86dd-749d68f6693a.PNG)
 
 ## **Level 11 → Level 12** ##
+![](https://cloud.githubusercontent.com/assets/13816109/9367212/9c32447c-46d9-11e5-815d-910096e39ecf.PNG)
 
 
 ## **Level 12 → Level 13** ##
 
 
 ## **Level 13 → Level 14** ##
+![](https://cloud.githubusercontent.com/assets/13816109/9373519/0ca880ac-4709-11e5-93d5-6c189f9787a5.PNG)
+
+![](https://cloud.githubusercontent.com/assets/13816109/9373531/3697efce-4709-11e5-987e-aee1ea9507da.PNG)
+
+![](https://cloud.githubusercontent.com/assets/13816109/9373544/3f835cb8-4709-11e5-917b-aa7f8d7dd181.PNG)
 
 ## **Level 14 → Level 15** ##
 
+![](https://cloud.githubusercontent.com/assets/13816109/9373555/724ae7ba-4709-11e5-824d-746144ee9c6f.PNG)
+
 ## **Level 15 → Level 16** ##
 
+![](https://cloud.githubusercontent.com/assets/13816109/9373574/905951f6-4709-11e5-934d-e7f19caa62d3.PNG)
+
 ## **Level 16 → Level 17** ##
+![](https://cloud.githubusercontent.com/assets/13816109/9373595/db8e5c48-4709-11e5-9f15-c89779e1a8a0.PNG)
 
 ## **Level 17 → Level 18** ##
+![](https://cloud.githubusercontent.com/assets/13816109/9373605/f1e966e0-4709-11e5-9a09-01edf0609a20.PNG)
 
+![](https://cloud.githubusercontent.com/assets/13816109/9373612/123d2666-470a-11e5-9828-5f792f6ff0a6.PNG)
+
+![](https://cloud.githubusercontent.com/assets/13816109/9373623/28403c32-470a-11e5-8ffb-f682a3c8eef4.PNG)
 ## **Level 18 → Level 19** ##
 
 ## **Level 19 → Level 20** ##
