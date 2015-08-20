@@ -93,11 +93,19 @@ This game is loging using SSH. The host which need to connect is **bandit.labs.o
 
 ## **Level 19 → Level 20** ##
 
+![](https://cloud.githubusercontent.com/assets/13816109/9373734/6964664c-470b-11e5-9302-162b79d79172.PNG)
+
+![](https://cloud.githubusercontent.com/assets/13816109/9373740/85a43616-470b-11e5-83a5-893a4945f341.PNG)
 ## **Level 20 → Level 21** ##
+![](https://cloud.githubusercontent.com/assets/13816109/9373747/9b8ded50-470b-11e5-96e6-570bea34e7be.PNG)
 
 ## **Level 21 → Level 22** ##
 
+![](https://cloud.githubusercontent.com/assets/13816109/9373766/bc74408c-470b-11e5-8b0d-ef14ec2a36ac.PNG)
+
 ## **Level 22 → Level 23** ##
+
+![](https://cloud.githubusercontent.com/assets/13816109/9373773/d3036b16-470b-11e5-8315-20e521808307.PNG)
 
 ## **Level 23 → Level 24** ##
 
